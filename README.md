@@ -7,7 +7,7 @@ This project focuses on the functional validation of a "Grey/White Item Auto-Sel
 ## 🛠️ Tools & Environment
 *   **Language:** Python 3.14
 *   **Frameworks:** Selenium (Web-based Armory validation), PyTest (Logic testing)
-*   **Platform:** Windows 11 / PowerShell
+*   **Platform:** Windows 11 / Firefox / Selenium
 
 ## 🧪 High-Level Test Cases
 | ID | Test Scenario | Expected Result | Priority |
